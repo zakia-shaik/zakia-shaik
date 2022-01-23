@@ -1,1 +1,3 @@
 welcome to imran bhayya training
+
+just started the linux commands
