@@ -1,4 +1,3 @@
 welcome to imran bhayya training
-
 just started the linux commands
 completed the first stage of learning
