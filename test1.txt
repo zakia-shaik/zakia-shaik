@@ -7,8 +7,5 @@ dog
 shell
 cockroach
 rabbit
-<<<<<<< HEAD
 kangroo
 
-=======
->>>>>>> b0f5e204e0a4108e75ea4f3510535e7b0ec57402
