@@ -7,5 +7,10 @@ dog
 shell
 cockroach
 rabbit
+<<<<<<< HEAD
 kangroo
 
+=======
+kangaroo
+wolf
+>>>>>>> index
