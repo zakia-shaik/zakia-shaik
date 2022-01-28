@@ -2,13 +2,10 @@ start
 continue
 still getting continued
 under process
-<<<<<<< HEAD
-=======
 cat
 dog
 shell
 cockroach
 rabbit
+kangroo
 
-
->>>>>>> bcaf49812216d5e73b43f23ed12e441e275bdb28
