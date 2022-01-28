@@ -8,9 +8,14 @@ shell
 cockroach
 rabbit
 <<<<<<< HEAD
+<<<<<<< HEAD
 kangroo
 
 =======
 kangaroo
 wolf
 >>>>>>> index
+=======
+kangaroo
+wolf
+>>>>>>> 94b4be4efb82bce248b34c1f9ec8186bc3a27fd1
