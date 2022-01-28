@@ -7,4 +7,5 @@ dog
 shell
 cockroach
 rabbit
-kangroo
+kangaroo
+wolf
